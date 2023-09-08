@@ -3,7 +3,7 @@ html{
     padding: 0;
 }
 body{
-    background-color: #F1E7DD;
+    background-color: #ddf1ea;
     text-align: justify;
     height: 100%;
     margin: 0;
@@ -18,11 +18,10 @@ body{
 /*主體設定*/
 .mainBody{
     background-color: rgb(0,0,0,20%);
-    height: 1000px;
-    width: 700px;
+    height: 500px;
+    width: 750px;
     margin: auto;
     padding-top: 20px;
-    box-shadow: 20px 15px 10px #495057;
 }
 .mainDiv{
     text-align: center;
@@ -31,11 +30,10 @@ body{
     min-height: calc(100% - 50px);
     flex-grow: 1;
     border-radius: 15px;
-    display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-left: 15px;
+    margin-left: 40px;
 }
 .divBox{
     margin: 10px;
@@ -87,7 +85,7 @@ header{
     top: 0;
     position: relative;
     line-height: 90px;
-    background-color: rgb(255,255,255,40%);
+    background-color: rgba(0, 0, 0, 10%);
     box-shadow: 20px 15px 10px #495057;
 }
 .headerTitle{
