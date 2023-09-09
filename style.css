@@ -15,6 +15,7 @@ body{
 .wapper{
     min-height: 100%;
     margin-bottom: -50px;
+    padding-bottom: 2.5rem;
 }
 
 /*主體設定*/
@@ -77,6 +78,7 @@ body{
     width: 100%;
     background-color: rgb(255,255,255,0.662);
     bottom: -150px;
+    height: 2.5rem;
 }
 .footerDiv{
     line-height: 25px;
